@@ -6,4 +6,4 @@ nltk
 wordcloud
 textblob
 xgboost
-sklearn
+scikit-learn
