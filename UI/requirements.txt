@@ -5,3 +5,5 @@ streamlit
 nltk
 wordcloud
 textblob
+xgboost
+sklearn
