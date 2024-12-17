@@ -129,3 +129,14 @@ The dataset was obtained via **web scraping** using the `BeautifulSoup` library 
 The **Customer Sentiment Analysis Project** provides actionable insights into customer feedback, enabling businesses to refine their strategies, improve product offerings, and enhance customer experiences. By leveraging advanced NLP techniques and machine learning models, this project delivers significant value for customer-centric decision-making.
 
 ---
+
+## Installation Guide
+
+1. Intall python 3.11 in your system. from the following link https://www.python.org/downloads/
+2. Install miniconda from the following link https://www.anaconda.com/download/success#miniconda
+3. Open your Command Prompt or Terminal
+4. Create the virtual environment `conda create -p venv`
+5. Activate the virtual environment `conda activate venv\`
+6. Install necessary packages `pip install -r UI\requirements.txt`
+7. Move to the UI `cd UI`
+7. Run the Application `streamlit run app.py`
